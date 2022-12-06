@@ -2,9 +2,9 @@
 
 # Hi, Onsoim! 👋
 
-Junior Android Developer
+<!-- Junior Android Developer
 
-<!-- # 📚 Education
+# 📚 Education
 
 - Computer and Information Security at Sejong University (2014.03. - 2021.08.)
 
