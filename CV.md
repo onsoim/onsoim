@@ -28,6 +28,8 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## WORKING EXPERIENCE
 
+2020.09-2022.08 (2 years), Researcher at HCRL (Hacking and Countermeasure Research Lab)
+
 2020.01-2020.03 (3 months), Researcher at Pizzlysoft
 
 2019.04-2019.12 (9 months), Penetration Tester at Posco ICT
