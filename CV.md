@@ -38,7 +38,7 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## RESEARCH and PROFESSIONAL EXPERIENCE<!-- (SELECTED) -->
 
-[PJ6] 2022.09-2022.11 (3 months), Cybersecurity AI/big data challenge 2022: AI기반 악성코드 위협 분류 - 본선 7등
+[PJ6] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification - Finals 7th
 
 [PJ5] 2021.01-2020.12 (1 year), Next-Generation Security Field Challenge R&D General Task
 
@@ -46,9 +46,9 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 [PJ3] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
 
-[PJ2] 2020.09-2022.08 (2 years), Research on the Development of Common Core Security Technology for Unmanned Vehicles
+[PJ2] 2020.09-2022.08 (2 years), Development of Security Primitives for Unmanned Vehicles
 
-[PJ1] 2020.2019.10-2019.11 (2 months), K-사이버 시큐리티 챌린지 2019: AI기반 네트워크 위협 탐지 - 본선 4등
+[PJ1] 2020.2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection - Finals 4th
 
 <div style="text-align: right">
     * Check <a href="https://onsoim.notion.site/80ab8146fff94083906fa344cd7f9959">portfolio</a> for details 
