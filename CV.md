@@ -48,7 +48,7 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 [PJ2] 2020.09-2022.06 (1 year 10 months), Development of Security Primitives for Unmanned Vehicles
 
-[PJ1] 2020.2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection - Finals 4th
+[PJ1] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection - Finals 4th
 
 <div style="text-align: right">
     * Check <a href="https://onsoim.notion.site/80ab8146fff94083906fa344cd7f9959">portfolio</a> for details 
