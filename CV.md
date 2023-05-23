@@ -38,7 +38,9 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## RESEARCH and PROFESSIONAL EXPERIENCE<!-- (SELECTED) -->
 
-[PJ8] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification - Finals 7th
+[PJ9] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification - Finals 7th
+
+[PJ8] 2022.02-2022.02 (1 month), Develop an apk crawler
 
 [PJ7] 2021.01-2020.12 (1 year), Challenges for next generation security R&D
 
