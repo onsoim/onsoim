@@ -44,7 +44,7 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 [PJ6] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Model
 
-[PJ5] 2021.01-Ongoing (2 years ~), Develop a discord bot for SAG (SSG Algorithm Group)
+[PJ5] 2021.01-Ongoing (2 years ~), Develop and Maintain a discord bot for SAG (SSG Algorithm Group)
 
 [PJ4] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
 
