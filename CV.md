@@ -94,9 +94,9 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 [P3] Cho, S., Lee, G., **Ryu, M.**, Jin, H., Kim, Y., Choi, S., Park, K. (2019). "PF-RNG: Proposal of Entropy Collection Model for Wireless Secure Communication Channel of Ultra Low-Cost Computing Device". *KING Spring Conference*, 202-205.
 
-[P2] Won, H., Kim, H., Jung, J., **Ryu, M.**, Kim, Y., Kim, Y., Kim, K. (2018). "Research for checking IM Security". *The Spring Conference of Korea Multimedia Society*.
+[P2] Kim, Y., Won, H., Jung, J., **Ryu, M.**, Kim, H., Kim, Y., Kim, K. (2018). "Study on packet extraction before encryption with SSL". *Conference on Information Security and Cryptography-Winter*.
 
-[P1] Kim, Y., Won, H., Jung, J., **Ryu, M.**, Kim, H., Kim, Y., Kim, K. (2018). "Study on packet extraction before encryption with SSL". *Conference on Information Security and Cryptography-Winter*.
+[P1] Won, H., Kim, H., Jung, J., **Ryu, M.**, Kim, Y., Kim, Y., Kim, K. (2018). "Research for checking IM Security". *The Spring Conference of Korea Multimedia Society*.
 
 <br>
 
