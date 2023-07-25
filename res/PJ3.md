@@ -15,6 +15,7 @@ This project is an R&D about the development of security primitives for Unmanned
 ## ROLE
 
 1. (Main) Communication/network security
+    - Write patents [PT3]
 2. (Sub) AI security
     - Review and study about MAVLink, AI (e.g., RNN, LSTM, GAN)
     - Write patents [PT1, PT2]
