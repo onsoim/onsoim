@@ -28,10 +28,10 @@ This project is for the overall operation of Cybersecurity Challenge 2019 in Kor
 
 ### OUTPUT
 
+- [P7] Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux
 - [C1] CVE-2022-24595
 - [C2] CVE-2022-24596
 - [C3] CVE-2022-24597
-- [P7] Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux
 
 <br>
 
