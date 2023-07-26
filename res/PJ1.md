@@ -17,9 +17,9 @@ This project is a study of various algorithms using various languages. Try to so
 
 ### OUTPUT
 
-- [SRC] https://github.com/onsoim/BOJ
-- [TIER] https://solved.ac/profile/onsoim
 - [A4] 2019. Honorable Mention. ICPC SEOUL 2019, ICPC.Foundation
+- [SRC] https://github.com/onsoim/BOJ
+- [RANK] https://solved.ac/profile/onsoim
 
 <br>
 
