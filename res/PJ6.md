@@ -3,11 +3,11 @@
 
 This research was motivated to generate a good-quality of seed corpus that is directly correlated with the performance of early fuzzing. We compared the performance of a seed corpus that was inferred from various models to help with this problem.
 
-**Objective** Get good quality seed corpus
-**Keywords** Data-driven Security, Vulnerability Detection, Fuzzing, Seed Generation, NLP
-**Affiliation** HCRL (Hacking and Countermeasure Research Lab)
-**Duration** 2021.03-2022.02 (1 year)
-**Proportion** 20% (Among 3 people)
+**Objective** Get good quality seed corpus<br>
+**Keywords** Data-driven Security, Vulnerability Detection, Fuzzing, Seed Generation, NLP<br>
+**Affiliation** HCRL (Hacking and Countermeasure Research Lab)<br>
+**Duration** 2021.03-2022.02 (1 year)<br>
+**Proportion** 20% (Among 3 people)<br>
 **Skills** Python (Tensorflow, Keras), C, Shell, Docker-compose
 
 <br>

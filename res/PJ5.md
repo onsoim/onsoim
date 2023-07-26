@@ -3,10 +3,10 @@
 
 This project is a development of a discord bot for SAG (SSG Algorithm Group). At first, the purpose was to report every member's tier from solved.ac every morning using GitHub action. But action sometimes paused unintentionally, took too long, and reported irregularly. Later this bot moved to a docker container in a private server. And many other functions are added
 
-**Objective** Develop and maintain a discord bot for SAG (SSG Algorithm Group)
-**Keywords** Discord.py v2.0, Parsing, Discord Cogs, async, Event Callback
-**Duration** 2021.01-Ongoing
-**Proportion** 100% (Sole)
+**Objective** Develop and maintain a discord bot for SAG (SSG Algorithm Group)<br>
+**Keywords** Discord.py v2.0, Parsing, Discord Cogs, async, Event Callback<br>
+**Duration** 2021.01-Ongoing<br>
+**Proportion** 100% (Sole)<br>
 **Skills** Python, GitHub (action, secret, submodule), Docker, json
 
 <br>

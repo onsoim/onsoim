@@ -3,10 +3,10 @@
 
 This project is a study of various algorithms using various languages. Try to solve as many and study concepts with other's codes in BOJ.
 
-**Objective** Solve various algorithm problems with various languages
-**Keywords** Algorithms, Languages, BOJ (Baekjoon Online Judge), ICPC
-**Duration** 2019.03-Ongoing
-**Proportion** 100% (Sole)
+**Objective** Solve various algorithm problems with various languages<br>
+**Keywords** Algorithms, Languages, BOJ (Baekjoon Online Judge), ICPC<br>
+**Duration** 2019.03-Ongoing<br>
+**Proportion** 100% (Sole)<br>
 **Skills** Kotlin, C++, Python, C, Shell
 
 <br>

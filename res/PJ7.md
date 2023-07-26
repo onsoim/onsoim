@@ -3,11 +3,11 @@
 
 This project is for the overall operation of Cybersecurity Challenge 2019 in Korea to encourage Car Security. The challenge consists of two parts, one is the RED part, developing attacks on given Infotainment (AGL), and the other is the BLUE part, developing IDS to detect other teams’ attacks.
 
-**Objective** General operation of “Cybersecurity Challenge 2021”
-**Keywords** AI, Autonomous Vehicle, Challenge, In-vehicle Network, Intrusion Detection
-**Affiliation** HCRL (Hacking and Countermeasure Research Lab)
-**Duration** 2021.01-2021.12 (1 year)
-**Proportion** 20% (Among 6 people)
+**Objective** General operation of “Cybersecurity Challenge 2021”<br>
+**Keywords** AI, Autonomous Vehicle, Challenge, In-vehicle Network, Intrusion Detection<br>
+**Affiliation** HCRL (Hacking and Countermeasure Research Lab)<br>
+**Duration** 2021.01-2021.12 (1 year)<br>
+**Proportion** 20% (Among 6 people)<br>
 **Skills** AGL (Automotive Grade Linux), penetration testing, exploit, CVSS (Common Vulnerability Scoring System), journalctl
 
 <br>

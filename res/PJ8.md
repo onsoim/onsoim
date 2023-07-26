@@ -12,10 +12,10 @@ This project is the development of an APK crawler. The flow of APKcrawler is as 
 5. Crawler collects all APKs received by ADB Server.
 6. Repeat 1-5.
 
-**Objective** Develop and maintain a discord bot for SAG (SSG Algorithm Group)
-**Keywords** Automation, adb, google play, SQL, multiprocessing
-**Duration** 2022.02-2022.02 (1 month)
-**Proportion** 100% (Sole)
+**Objective** Develop and maintain a discord bot for SAG (SSG Algorithm Group)<br>
+**Keywords** Automation, adb, google play, SQL, multiprocessing<br>
+**Duration** 2022.02-2022.02 (1 month)<br>
+**Proportion** 100% (Sole)<br>
 **Skills** Python, adb, pickle, SQLite, selenium
 
 <br>

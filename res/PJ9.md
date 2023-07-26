@@ -3,10 +3,10 @@
 
 This project is a process of preparing and participating in a challenge. The challenge serves raw window-based (PE) malware datasets. And participants have to classify their type of threats (e.g., bot, ransomware, trojan) and families.
 
-**Objective** Classify given malware's type and family
-**Keywords** AI, Multi-class classification, Big data, Malware, Type/Family
-**Duration** 2022.09-2022.11 (3 months)
-**Proportion** 30% (Among 3 people)
+**Objective** Classify given malware's type and family<br>
+**Keywords** AI, Multi-class classification, Big data, Malware, Type/Family<br>
+**Duration** 2022.09-2022.11 (3 months)<br>
+**Proportion** 30% (Among 3 people)<br>
 **Skills** Analysis, AutoML (PyCaret)
 
 <br>

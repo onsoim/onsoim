@@ -3,10 +3,10 @@
 
 This project is a process of preparing and participating in a challenge. The challenge serves csv that includes selected columns from a web server side’s log such as IP, port, timestamp, user agent, and so on. Participants have to detect threats based on this dataset. But this dataset includes only benign logs so need to use anomaly detection to detect threats.
 
-**Objective** Detect threats on networks with benign logs using AI models
-**Keywords** AI Security, Anomaly Detection, Intrusion Detection, Big data
-**Duration** 2019.10-2019.11 (2 months)
-**Proportion** 30% (Among 5 people)
+**Objective** Detect threats on networks with benign logs using AI models<br>
+**Keywords** AI Security, Anomaly Detection, Intrusion Detection, Big data<br>
+**Duration** 2019.10-2019.11 (2 months)<br>
+**Proportion** 30% (Among 5 people)<br>
 **Skills** AI, Python, ELK, Analysis
 
 <br>
