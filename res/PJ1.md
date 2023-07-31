@@ -11,7 +11,8 @@ This project is a study of various algorithms using various languages. Try to so
 
 <br>
 
-<img src="PJ1-1.png" alt="image-20230720000813680" style="zoom:17%;" /><img src="PJ1-2.png" alt="image-20230720000835809" style="zoom:40%;" />
+<img src="PJ1-1.png" style="zoom:100%;" />
+<img src="PJ1-2.png" style="zoom:44%;" />   <img src="PJ1-3.png" style="zoom:21%;" />
 
 <br>
 
