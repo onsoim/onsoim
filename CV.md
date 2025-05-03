@@ -28,6 +28,10 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## WORKING EXPERIENCE
 
+2024.03-Ongoing (1 year, 2 months), Assitant Research Engineer at Bluebird, Inc.
+
+2023.06-2024.02 (9 months), Engineer at Bluebird, Inc.
+
 2020.09-2022.08 (2 years), Researcher at HCRL (Hacking and Countermeasure Research Lab)
 
 2020.01-2020.03 (3 months), Researcher at Pizzlysoft
