@@ -20,9 +20,9 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 2020.09-2022.08, M.S., Cybersecurity, Korea University (Seoul, Korea)
 
-2018.07-2019.03, Next-generation security leader training program, KITRI (Seoul, Korea)
-
 2016.03-2020.08, B.E., Computer and Information Security, Sejong University (Seoul, Korea)
+
+2018.07-2019.03, Next-generation security leader training program, KITRI (Seoul, Korea)
 
 <br>
 
