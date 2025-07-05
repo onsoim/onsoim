@@ -7,7 +7,7 @@ This project is a process of preparing and participating in a challenge. The cha
 **Keywords** AI Security, Anomaly Detection, Intrusion Detection, Big data<br>
 **Duration** 2019.10-2019.11 (2 months)<br>
 **Proportion** 30% (Among 5 people)<br>
-**Skills** AI, Python, ELK, Analysis
+**Skills** AI, Python, ELK, Data Analysis
 
 <br>
 
