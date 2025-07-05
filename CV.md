@@ -28,6 +28,10 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## WORKING EXPERIENCE
 
+2024.03-Ongoing (1 year 5 months), Assistant Software Engineer at Bluebird, Inc.
+
+2023.06-2024.02 (9 months), Software Engineer at Bluebird, Inc.
+
 2020.09-2022.08 (2 years), Researcher at HCRL (Hacking and Countermeasure Research Lab)
 
 2020.01-2020.03 (3 months), Researcher at Pizzlysoft
@@ -38,23 +42,35 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## RESEARCH and PROFESSIONAL EXPERIENCE<!-- (SELECTED) -->
 
-[PJ9] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification - Finals 7th
+[[PJ15](./res/PJ15.md)] 2025.04-2025.6 (2 months), Development of Newly applied VAN (KCP)
 
-[PJ8] 2022.02-2022.02 (1 month), Develop an apk crawler
+[[PJ14](./res/PJ14.md)] 2025.03-2025.3 (1 month), Fix KR Cash IC Bugs
 
-[PJ7] 2021.01-2020.12 (1 year), Challenges for next generation security R&D
+[[PJ13](./res/PJ13.md)] 2025.01-2025.2 (1 month), Development of Newly applied VAN (KSNet)
 
-[PJ6] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Model
+[[PJ12](./res/PJ12.md)] 2024.07-2025.3 (9 months), Development of BMT Applications
 
-[PJ5] 2021.01-Ongoing (2 years ~), Develop and Maintain a discord bot for SAG (SSG Algorithm Group)
+[[PJ11](./res/PJ11.md)] 2024.06-2024.11 (6 months), Management of Outsourcing Project
 
-[PJ4] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
+[[PJ10](./res/PJ10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless Certification
 
-[PJ3] 2020.09-2022.06 (1 year 10 months), Development of Security Primitives for Unmanned Vehicles
+[[PJ9](./res/PJ9.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification - Finals 7th
 
-[PJ2] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection - Finals 4th
+[[PJ8](./res/PJ8.md)] 2022.02-2022.02 (1 month), Develop an apk crawler
 
-[PJ1] 2019.03-Ongoing (4 years ~ ), The Study of Algorithms
+[[PJ7](./res/PJ7.md)] 2021.01-2020.12 (1 year), Challenges for next generation security R&D
+
+[[PJ6](./res/PJ6.md)] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Model
+
+[[PJ5](./res/PJ5.md)] 2021.01-Ongoing (2 years ~), Develop and Maintain a discord bot for SAG (SSG Algorithm Group)
+
+[[PJ4](./res/PJ4.md)] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
+
+[[PJ3](./res/PJ3.md)] 2020.09-2022.06 (1 year 10 months), Development of Security Primitives for Unmanned Vehicles
+
+[[PJ2](./res/PJ2.md)] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection - Finals 4th
+
+[[PJ1](./res/PJ1.md)] 2019.03-Ongoing (4 years ~ ), The Study of Algorithms
 
 <div style="text-align: right">
     * Check <a href="https://onsoim.notion.site/80ab8146fff94083906fa344cd7f9959">portfolio</a> for details 
