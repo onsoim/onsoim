@@ -42,35 +42,35 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## RESEARCH and PROFESSIONAL EXPERIENCE<!-- (SELECTED) -->
 
-[[PJ15](./res/PJ15/PJ15.md)] 2025.04-2025.6 (2 months), Development of Newly applied VAN (KCP)
+[[PJ15](./res/projects/pj15/pj15.md)] 2025.04-2025.6 (2 months), Development of Newly applied VAN (KCP)
 
-[[PJ14](./res/PJ14/PJ14.md)] 2025.03-2025.3 (1 month), Fix KR Cash IC Bugs
+[[PJ14](./res/projects/pj14/pj14.md)] 2025.03-2025.3 (1 month), Fix KR Cash IC Issues
 
-[[PJ13](./res/PJ13/PJ13.md)] 2025.01-2025.2 (1 month), Development of Newly applied VAN (KSNet)
+[[PJ13](./res/projects/pj13/pj13.md)] 2025.01-2025.2 (1 month), Development of Newly applied VAN (KSNet)
 
-[[PJ12](./res/PJ12/PJ12.md)] 2024.07-2025.3 (9 months), Development of BMT Applications
+[[PJ12](./res/projects/pj12/pj12.md)] 2024.07-2025.3 (9 months), Development of BMT Applications
 
-[[PJ11](./res/PJ11/PJ11.md)] 2024.06-2024.11 (6 months), Management of Outsourcing Project
+[[PJ11](./res/projects/pj11/pj11.md)] 2024.06-2024.11 (6 months), Management of Outsourcing Project
 
-[[PJ10](./res/PJ10/PJ10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless Certification
+[[PJ10](./res/projects/pj10/pj10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless Certification
 
-[[PJ9](./res/PJ9/PJ9.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification - Finals 7th
+[[PJ9](./res/projects/pj09/pj09.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification - Finals 7th
 
-[[PJ8](./res/PJ8/PJ8.md)] 2022.02-2022.02 (1 month), Develop an apk crawler
+[[PJ8](./res/projects/pj08/pj08.md)] 2022.02-2022.02 (1 month), Develop an apk crawler
 
-[[PJ7](./res/PJ7/PJ7.md)] 2021.01-2020.12 (1 year), Challenges for next generation security R&D
+[[PJ7](./res/projects/pj07/pj07.md)] 2021.01-2020.12 (1 year), Challenges for next generation security R&D
 
-[[PJ6](./res/PJ6/PJ6.md)] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Model
+[[PJ6](./res/projects/pj06/pj06.md)] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Model
 
-[[PJ5](./res/PJ5/PJ5.md)] 2021.01-Ongoing (2 years ~), Develop and Maintain a discord bot for SAG (SSG Algorithm Group)
+[[PJ5](./res/projects/pj05/pj05.md)] 2021.01-Ongoing (2 years ~), Develop and Maintain a discord bot for SAG (SSG Algorithm Group)
 
-[[PJ4](./res/PJ4/PJ4.md)] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
+[[PJ4](./res/projects/pj04/pj04.md)] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
 
-[[PJ3](./res/PJ3/PJ3.md)] 2020.09-2022.06 (1 year 10 months), Development of Security Primitives for Unmanned Vehicles
+[[PJ3](./res/projects/pj03/pj03.md)] 2020.09-2022.06 (1 year 10 months), Development of Security Primitives for Unmanned Vehicles
 
-[[PJ2](./res/PJ2/PJ2.md)] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection - Finals 4th
+[[PJ2](./res/projects/pj02/pj02.md)] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection - Finals 4th
 
-[[PJ1](./res/Projects/PJ1/PJ1.md)] 2019.03-Ongoing (4 years ~ ), The Study of Algorithms
+[[PJ1](./res/projects/pj01/pj01.md)] 2019.03-Ongoing (4 years ~ ), The Study of Algorithms
 
 <div style="text-align: right">
     * Check <a href="https://onsoim.notion.site/80ab8146fff94083906fa344cd7f9959">portfolio</a> for details 
@@ -100,7 +100,7 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 <!-- APA style -->
 
-[P7] Jeong, S., **Ryu, M.**, Kang, H., and Huy Kang Kim. (2023). "Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux". *In Proceedings of the Thirteenth ACM Conference on Data and Application Security and Privacy (CODASPY '23)*, 201-212. https://doi.org/10.1145/3577923.3583650
+[[P7](./res/papers/p7.pdf)] Jeong, S., **Ryu, M.**, Kang, H., and Huy Kang Kim. (2023). "Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux". *In Proceedings of the Thirteenth ACM Conference on Data and Application Security and Privacy (CODASPY '23)*, 201-212. https://doi.org/10.1145/3577923.3583650
 
 [P6] Jeon, S., **Ryu, M.**, Kim, D., & Kim, H. K. (2022). "Automatically Seed Corpus and Fuzzing Executables Generation Using Test Framework". *IEEE Access*, 10, 90408–90428. https://doi.org/10.1109/ACCESS.2022.3202005
 
