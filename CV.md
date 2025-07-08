@@ -44,17 +44,17 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 [[PJ16](./res/projects/pj16/pj16.md)] 2025.02-Ongoing (6 months ~ ), Development of Management Android Application
 
-[[PJ15](./res/projects/pj15/pj15.md)] 2025.04-2025.6 (2 months), Development of Newly applied VAN (KCP)
+[[PJ15](./res/projects/pj15/pj15.md)] 2025.04-2025.7 (4 months), Development of Newly applied VAN (KCP)
 
 [[PJ14](./res/projects/pj14/pj14.md)] 2025.03-2025.3 (1 month), Fix KR Cash IC Issues
 
-[[PJ13](./res/projects/pj13/pj13.md)] 2025.01-2025.2 (1 month), Development of newly applied VAN (KSNet)
+[[PJ13](./res/projects/pj13/pj13.md)] 2025.01-2025.2 (1.5 month), Development of newly applied VAN (KSNet)
 
 [[PJ12](./res/projects/pj12/pj12.md)] 2024.07-2025.3 (9 months), Development of BMT Applications
 
 [[PJ11](./res/projects/pj11/pj11.md)] 2024.06-2024.11 (6 months), Management of outsourcing development project
 
-[[PJ10](./res/projects/pj10/pj10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless
+[[PJ10](./res/projects/pj10/pj10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless Kernel
 
 [[PJ9](./res/projects/pj09/pj09.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification
 
