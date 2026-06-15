@@ -1,18 +1,32 @@
+
+## Minsoo Ryu
+
 <div style="text-align: left">
-    <h2>
-        Minsoo Ryu
-    </h2>
-    School of Cybersecurity, Korea University,<br>
-    145 Anam-ro, Seongbuk-gu, Seoul<br>
-    Republic of Korea<br>
-    onsoim@korea.ac.kr<br>
+    <a href="https://www.linkedin.com/in/onsoim/">LinkedIn</a> | <a href="https://github.com/onsoim">GitHub</a> | <a href="mailto:onsoim@gmail.com">onsoim@gmail.com</a><br>
+    Seoul, Republic of Korea<br>
 </div>
 
 <br>
 
 ## BIO
 
-Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecurity, Korea University, in 2022. He received a B.E. degree in Computer and Information Security from Sejong University, in 2020. His recent research interests include fuzzing and app security in various environments.
+Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecurity, Korea University, in 2022. He received a B.E. degree in Computer and Information Security from Sejong University, in 2020. He is currently a Research Engineer (Senior Level / R&D Lead) at Bluebird, Inc. His primary expertise and recent research interests include Android, Automotive, and Robotics.
+
+<br>
+
+## TECHNICAL SKILLS
+
+**Programming Language:** C, C++, Python, Kotlin, Java
+
+**OS:** Linux, Android, Embedded Linux, RTOS (Real-Time OS), AGL (Automotive Grade Linux)
+
+**Protocols:** Apple VAS, ISO-DEP, APDU
+
+**Debugging & Profiling:** Low-Level Kernel/Protocol Debugging, Root-Cause Analysis, Troubleshooting, Memory Leak Optimization (OOM)
+
+**System & Architecture:** IPC (AIDL), Multi-threading, Memory Management
+
+**Security:** Reversing, Debugging, Vulnerability Assessment
 
 <br>
 
@@ -28,11 +42,13 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## WORKING EXPERIENCE
 
-2024.03-Ongoing (1 year 5 months), Assistant Software Engineer at Bluebird, Inc.
+2026.03-Present (4 months ~), Research Engineer at Bluebird, Inc.
 
-2023.06-2024.02 (9 months), Software Engineer at Bluebird, Inc.
+2024.03-2026.02 (2 years), Assistant Research Engineer at Bluebird, Inc.
 
-2020.09-2022.08 (2 years), Researcher at HCRL (Hacking and Countermeasure Research Lab)
+2023.06-2024.02 (9 months), Engineer at Bluebird, Inc.
+
+2020.09-2022.08 (2 years), Graduate Research Assistant at HCRL (Hacking and Countermeasure Research Lab)
 
 2020.01-2020.03 (3 months), Researcher at Pizzlysoft
 
@@ -42,29 +58,33 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## RESEARCH and PROFESSIONAL EXPERIENCE<!-- (SELECTED) -->
 
-[[PJ16](./res/projects/pj16/pj16.md)] 2025.02-Ongoing (6 months ~ ), Development of Management Android Application
+[[PJ18](./res/projects/pj18/pj18.md)] 2026.05-2026.06 (2 months), Development of Newly Applied VAN (NICE)
 
-[[PJ15](./res/projects/pj15/pj15.md)] 2025.04-2025.7 (4 months), Development of Newly applied VAN (KCP)
+[[PJ17](./res/projects/pj17/pj17.md)] 2025.11-Present (8 months ~), Architecture Design and Development of Apple VAS (Tech Lead)
 
-[[PJ14](./res/projects/pj14/pj14.md)] 2025.03-2025.3 (1 month), Fix KR Cash IC Issues
+[[PJ16](./res/projects/pj16/pj16.md)] 2025.02-Present (6 months ~), Development of Management Android Application
 
-[[PJ13](./res/projects/pj13/pj13.md)] 2025.01-2025.2 (1.5 month), Development of newly applied VAN (KSNet)
+[[PJ15](./res/projects/pj15/pj15.md)] 2025.04-2025.07 (4 months), Development of Newly Applied VAN (KCP)
 
-[[PJ12](./res/projects/pj12/pj12.md)] 2024.07-2025.3 (9 months), Development of BMT Applications
+[[PJ14](./res/projects/pj14/pj14.md)] 2025.03-2025.03 (1 month), Low-Level Debugging and Root-Cause Analysis for KR Cash IC Sub-System Issues
 
-[[PJ11](./res/projects/pj11/pj11.md)] 2024.06-2024.11 (6 months), Management of outsourcing development project
+[[PJ13](./res/projects/pj13/pj13.md)] 2025.01-2025.02 (2 months), Development of Newly Applied VAN (KSNet)
+
+[[PJ12](./res/projects/pj12/pj12.md)] 2024.07-2025.03 (9 months), Development of BMT Applications
+
+[[PJ11](./res/projects/pj11/pj11.md)] 2024.06-2024.11 (6 months), Management of Outsourcing Development Project
 
 [[PJ10](./res/projects/pj10/pj10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless Kernel
 
-[[PJ9](./res/projects/pj09/pj09.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big data challenge 2022: AI-based Malware Threat Classification
+[[PJ9](./res/projects/pj09/pj09.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big Data Challenge 2022: AI-based Malware Threat Classification
 
-[[PJ8](./res/projects/pj08/pj08.md)] 2022.02-2022.02 (1 month), Develop an apk crawler
+[[PJ8](./res/projects/pj08/pj08.md)] 2022.02-2022.02 (1 month), Development of an APK Crawler
 
-[[PJ7](./res/projects/pj07/pj07.md)] 2021.01-2020.12 (1 year), Challenges for next generation security R&D
+[[PJ7](./res/projects/pj07/pj07.md)] 2021.01-2021.12 (1 year), Challenges for Next-Generation Security R&D
 
-[[PJ6](./res/projects/pj06/pj06.md)] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Model
+[[PJ6](./res/projects/pj06/pj06.md)] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Models
 
-[[PJ5](./res/projects/pj05/pj05.md)] 2021.01-2023.05 (2 years 5 months), Develop and Maintain a discord bot for SAG (SSG Algorithm Group)
+[[PJ5](./res/projects/pj05/pj05.md)] 2021.01-2023.05 (2 years 5 months), Development and Maintenance of a Discord Bot for SAG (SSG Algorithm Group)
 
 [[PJ4](./res/projects/pj04/pj04.md)] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
 
@@ -73,10 +93,6 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 [[PJ2](./res/projects/pj02/pj02.md)] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection
 
 [[PJ1](./res/projects/pj01/pj01.md)] 2019.03-2022.05 (3 years 3 months), The Study of Algorithms
-
-<div style="text-align: right">
-    * Check <a href="https://onsoim.notion.site/80ab8146fff94083906fa344cd7f9959">portfolio</a> for details 
-</div>
 
 <br>
 
