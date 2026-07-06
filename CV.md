@@ -120,13 +120,13 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 [[P7](./res/papers/p7.pdf)] Jeong, S., **Ryu, M.**, Kang, H., and Huy Kang Kim. (2023). "Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux". *In Proceedings of the Thirteenth ACM Conference on Data and Application Security and Privacy (CODASPY '23)*, 201-212. https://doi.org/10.1145/3577923.3583650
 
-[P6] Jeon, S., **Ryu, M.**, Kim, D., & Kim, H. K. (2022). "Automatically Seed Corpus and Fuzzing Executables Generation Using Test Framework". *IEEE Access*, 10, 90408–90428. https://doi.org/10.1109/ACCESS.2022.3202005
+[[P6](./res/papers/p6.pdf)] Jeon, S., **Ryu, M.**, Kim, D., & Kim, H. K. (2022). "Automatically Seed Corpus and Fuzzing Executables Generation Using Test Framework". *IEEE Access*, 10, 90408–90428. https://doi.org/10.1109/ACCESS.2022.3202005
 
-[P5] Kim, D., Jeon, S., **Ryu, M.**, & Kim, H. K. (2022). "A Fuzzing Seed Generation Technique Using Natural Language Processing Model". *Journal of the Korea Institute of Information Security & Cryptology*, *32*(2), 417–437. https://doi.org/10.13089/JKIISC.2022.32.2.417
+[[P5](./res/papers/p5.pdf)] Kim, D., Jeon, S., **Ryu, M.**, & Kim, H. K. (2022). "A Fuzzing Seed Generation Technique Using Natural Language Processing Model". *Journal of the Korea Institute of Information Security & Cryptology*, *32*(2), 417–437. https://doi.org/10.13089/JKIISC.2022.32.2.417
 
-[P4] **Ryu, M.**, Kim, D. Y., Jeon, S., & Kim, H. K. (2021). "Automated Building Fuzzing Environment Using Test Framework". *Journal of the Korea Institute of Information Security & Cryptology*, *31*(4), 587–604. https://doi.org/10.13089/JKIISC.2021.31.4.587
+[[P4](./res/papers/p4.pdf)] **Ryu, M.**, Kim, D. Y., Jeon, S., & Kim, H. K. (2021). "Automated Building Fuzzing Environment Using Test Framework". *Journal of the Korea Institute of Information Security & Cryptology*, *31*(4), 587–604. https://doi.org/10.13089/JKIISC.2021.31.4.587
 
-[P3] Cho, S., Lee, G., **Ryu, M.**, Jin, H., Kim, Y., Choi, S., Park, K. (2019). "PF-RNG: Proposal of Entropy Collection Model for Wireless Secure Communication Channel of Ultra Low-Cost Computing Device". *KING Spring Conference*, 202-205.
+[[P3](./res/papers/p3.pdf)] Cho, S., Lee, G., **Ryu, M.**, Jin, H., Kim, Y., Choi, S., Park, K. (2019). "PF-RNG: Proposal of Entropy Collection Model for Wireless Secure Communication Channel of Ultra Low-Cost Computing Device". *KING Spring Conference*, 202-205.
 
 [P2] Kim, Y., Won, H., Jung, J., **Ryu, M.**, Kim, H., Kim, Y., Kim, K. (2018). "Study on packet extraction before encryption with SSL". *Conference on Information Security and Cryptography-Winter*.
 
