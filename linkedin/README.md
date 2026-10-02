@@ -1,0 +1,1 @@
+These files are exported snapshots from LinkedIn and are maintained as source for career-document generation.
