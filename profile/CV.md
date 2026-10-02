@@ -42,7 +42,7 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## WORKING EXPERIENCE
 
-2026.03-Present (4 months ~), Research Engineer at Bluebird, Inc.
+2026.03-Present, Research Engineer at Bluebird, Inc.
 
 2024.03-2026.02 (2 years), Assistant Research Engineer at Bluebird, Inc.
 
@@ -58,41 +58,41 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 ## RESEARCH and PROFESSIONAL EXPERIENCE<!-- (SELECTED) -->
 
-[[PJ18](./res/projects/pj18/pj18.md)] 2026.05-2026.06 (2 months), Development of Newly Applied VAN (NICE)
+[[PJ18](../projects/pj18/pj18.md)] 2026.05-2026.06 (2 months), Development of Newly Applied VAN (NICE)
 
-[[PJ17](./res/projects/pj17/pj17.md)] 2025.11-Present (8 months ~), Architecture Design and Development of Apple VAS (Tech Lead)
+[[PJ17](../projects/pj17/pj17.md)] 2025.11-Present (8 months ~), Architecture Design and Development of Apple VAS (Tech Lead)
 
-[[PJ16](./res/projects/pj16/pj16.md)] 2025.02-Present (6 months ~), Development of Management Android Application
+[[PJ16](../projects/pj16/pj16.md)] 2025.02-2026.04 (1 year 2 months), Development of Management Android Application
 
-[[PJ15](./res/projects/pj15/pj15.md)] 2025.04-2025.07 (4 months), Development of Newly Applied VAN (KCP)
+[[PJ15](../projects/pj15/pj15.md)] 2025.04-2025.07 (4 months), Development of Newly Applied VAN (KCP)
 
-[[PJ14](./res/projects/pj14/pj14.md)] 2025.03-2025.03 (1 month), Low-Level Debugging and Root-Cause Analysis for KR Cash IC Sub-System Issues
+[[PJ14](../projects/pj14/pj14.md)] 2025.03-2025.03 (1 month), Low-Level Debugging and Root-Cause Analysis for KR Cash IC Sub-System Issues
 
-[[PJ13](./res/projects/pj13/pj13.md)] 2025.01-2025.02 (2 months), Development of Newly Applied VAN (KSNet)
+[[PJ13](../projects/pj13/pj13.md)] 2025.01-2025.02 (2 months), Development of Newly Applied VAN (KSNet)
 
-[[PJ12](./res/projects/pj12/pj12.md)] 2024.07-2025.03 (9 months), Development of BMT Applications
+[[PJ12](../projects/pj12/pj12.md)] 2024.07-2025.03 (9 months), Development of BMT Applications
 
-[[PJ11](./res/projects/pj11/pj11.md)] 2024.06-2024.11 (6 months), Management of Outsourcing Development Project
+[[PJ11](../projects/pj11/pj11.md)] 2024.06-2024.11 (6 months), Management of Outsourcing Development Project
 
-[[PJ10](./res/projects/pj10/pj10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless Kernel
+[[PJ10](../projects/pj10/pj10.md)] 2023.07-2024.04 (10 months), Development of Mastercard Contactless Kernel
 
-[[PJ9](./res/projects/pj09/pj09.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big Data Challenge 2022: AI-based Malware Threat Classification
+[[PJ9](../projects/pj09/pj09.md)] 2022.09-2022.11 (3 months), Cybersecurity AI/Big Data Challenge 2022: AI-based Malware Threat Classification
 
-[[PJ8](./res/projects/pj08/pj08.md)] 2022.02-2022.02 (1 month), Development of an APK Crawler
+[[PJ8](../projects/pj08/pj08.md)] 2022.02-2022.02 (1 month), Development of an APK Crawler
 
-[[PJ7](./res/projects/pj07/pj07.md)] 2021.01-2021.12 (1 year), Challenges for Next-Generation Security R&D
+[[PJ7](../projects/pj07/pj07.md)] 2021.01-2021.12 (1 year), Challenges for Next-Generation Security R&D
 
-[[PJ6](./res/projects/pj06/pj06.md)] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Models
+[[PJ6](../projects/pj06/pj06.md)] 2021.03-2022.02 (1 year), A Fuzzing Seed Generation Technique Using Natural Language Processing Models
 
-[[PJ5](./res/projects/pj05/pj05.md)] 2021.01-2023.05 (2 years 5 months), Development and Maintenance of a Discord Bot for SAG (SSG Algorithm Group)
+[[PJ5](../projects/pj05/pj05.md)] 2021.01-2023.05 (2 years 5 months), Development and Maintenance of a Discord Bot for SAG (SSG Algorithm Group)
 
-[[PJ4](./res/projects/pj04/pj04.md)] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
+[[PJ4](../projects/pj04/pj04.md)] 2020.11-2021.07 (9 months), Automated Building Fuzzing Environment Using Test Framework
 
-[[PJ3](./res/projects/pj03/pj03.md)] 2020.09-2022.06 (1 year 10 months), Development of Security Primitives for Unmanned Vehicles
+[[PJ3](../projects/pj03/pj03.md)] 2020.09-2022.06 (1 year 10 months), Development of Security Primitives for Unmanned Vehicles
 
-[[PJ2](./res/projects/pj02/pj02.md)] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection
+[[PJ2](../projects/pj02/pj02.md)] 2019.10-2019.11 (2 months), K-Cyber Security Challenge 2019: AI-based Network Threat Detection
 
-[[PJ1](./res/projects/pj01/pj01.md)] 2019.03-2022.05 (3 years 3 months), The Study of Algorithms
+[[PJ1](../projects/pj01/pj01.md)] 2019.03-2022.05 (3 years 3 months), The Study of Algorithms
 
 <br>
 
@@ -118,15 +118,15 @@ Minsoo Ryu received an M.S. degree in Cybersecurity from the School of Cybersecu
 
 <!-- APA style -->
 
-[[P7](./res/papers/p7.pdf)] Jeong, S., **Ryu, M.**, Kang, H., and Huy Kang Kim. (2023). "Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux". *In Proceedings of the Thirteenth ACM Conference on Data and Application Security and Privacy (CODASPY '23)*, 201-212. https://doi.org/10.1145/3577923.3583650
+[[P7](../papers/p7.pdf)] Jeong, S., **Ryu, M.**, Kang, H., and Huy Kang Kim. (2023). "Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux". *In Proceedings of the Thirteenth ACM Conference on Data and Application Security and Privacy (CODASPY '23)*, 201-212. https://doi.org/10.1145/3577923.3583650
 
-[[P6](./res/papers/p6.pdf)] Jeon, S., **Ryu, M.**, Kim, D., & Kim, H. K. (2022). "Automatically Seed Corpus and Fuzzing Executables Generation Using Test Framework". *IEEE Access*, 10, 90408–90428. https://doi.org/10.1109/ACCESS.2022.3202005
+[[P6](../papers/p6.pdf)] Jeon, S., **Ryu, M.**, Kim, D., & Kim, H. K. (2022). "Automatically Seed Corpus and Fuzzing Executables Generation Using Test Framework". *IEEE Access*, 10, 90408–90428. https://doi.org/10.1109/ACCESS.2022.3202005
 
-[[P5](./res/papers/p5.pdf)] Kim, D., Jeon, S., **Ryu, M.**, & Kim, H. K. (2022). "A Fuzzing Seed Generation Technique Using Natural Language Processing Model". *Journal of the Korea Institute of Information Security & Cryptology*, *32*(2), 417–437. https://doi.org/10.13089/JKIISC.2022.32.2.417
+[[P5](../papers/p5.pdf)] Kim, D., Jeon, S., **Ryu, M.**, & Kim, H. K. (2022). "A Fuzzing Seed Generation Technique Using Natural Language Processing Model". *Journal of the Korea Institute of Information Security & Cryptology*, *32*(2), 417–437. https://doi.org/10.13089/JKIISC.2022.32.2.417
 
-[[P4](./res/papers/p4.pdf)] **Ryu, M.**, Kim, D. Y., Jeon, S., & Kim, H. K. (2021). "Automated Building Fuzzing Environment Using Test Framework". *Journal of the Korea Institute of Information Security & Cryptology*, *31*(4), 587–604. https://doi.org/10.13089/JKIISC.2021.31.4.587
+[[P4](../papers/p4.pdf)] **Ryu, M.**, Kim, D. Y., Jeon, S., & Kim, H. K. (2021). "Automated Building Fuzzing Environment Using Test Framework". *Journal of the Korea Institute of Information Security & Cryptology*, *31*(4), 587–604. https://doi.org/10.13089/JKIISC.2021.31.4.587
 
-[[P3](./res/papers/p3.pdf)] Cho, S., Lee, G., **Ryu, M.**, Jin, H., Kim, Y., Choi, S., Park, K. (2019). "PF-RNG: Proposal of Entropy Collection Model for Wireless Secure Communication Channel of Ultra Low-Cost Computing Device". *KING Spring Conference*, 202-205.
+[[P3](../papers/p3.pdf)] Cho, S., Lee, G., **Ryu, M.**, Jin, H., Kim, Y., Choi, S., Park, K. (2019). "PF-RNG: Proposal of Entropy Collection Model for Wireless Secure Communication Channel of Ultra Low-Cost Computing Device". *KING Spring Conference*, 202-205.
 
 [P2] Kim, Y., Won, H., Jung, J., **Ryu, M.**, Kim, H., Kim, Y., Kim, K. (2018). "Study on packet extraction before encryption with SSL". *Conference on Information Security and Cryptography-Winter*.
 
